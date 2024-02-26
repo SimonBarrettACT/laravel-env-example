@@ -1,11 +1,11 @@
-# Sync .env.example to .env
+# Laravel Env Example
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/simonbarrettact/laravel-env-example.svg?style=flat-square)](https://packagist.org/packages/simonbarrettact/laravel-env-example)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/simonbarrettact/laravel-env-example/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/simonbarrettact/laravel-env-example/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/simonbarrettact/laravel-env-example/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/simonbarrettact/laravel-env-example/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/simonbarrettact/laravel-env-example.svg?style=flat-square)](https://packagist.org/packages/simonbarrettact/laravel-env-example)
 
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
+Sync .env.example to .env"
 
 ## Support us
 
