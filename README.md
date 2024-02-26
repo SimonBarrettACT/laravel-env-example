@@ -5,15 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/simonbarrettact/laravel-env-example/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/simonbarrettact/laravel-env-example/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/simonbarrettact/laravel-env-example.svg?style=flat-square)](https://packagist.org/packages/simonbarrettact/laravel-env-example)
 
-Sync .env.example to .env"
-
-## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/laravel-env-example.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/laravel-env-example)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
+Sync .env.example to .env
 
 ## Installation
 
