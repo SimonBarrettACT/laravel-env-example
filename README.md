@@ -1,4 +1,4 @@
-# About
+# Sync .env.example to .env
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/simonbarrettact/laravel-env-example.svg?style=flat-square)](https://packagist.org/packages/simonbarrettact/laravel-env-example)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/simonbarrettact/laravel-env-example/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/simonbarrettact/laravel-env-example/actions?query=workflow%3Arun-tests+branch%3Amain)
